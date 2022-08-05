@@ -5,7 +5,7 @@ import { AppointmentsPage } from "./containers/appointmentsPage/AppointmentsPage
 import { ContactsPage } from "./containers/contactsPage/ContactsPage";
 
 function App() {
-  /*
+  /* ok
   Define state variables for 
   contacts and appointments 
   */
